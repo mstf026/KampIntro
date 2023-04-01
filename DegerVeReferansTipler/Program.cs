@@ -12,7 +12,7 @@ namespace DegerVeReferansTipler
             //array, class, interface = referans tip
             //bellekte stack ve heap diye iki tane alan var
 
-
+            Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
 
         }
