@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{210A8783-8DD9-4F86-BCF1-10F38F125CE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{D220ADCD-366E-4808-B270-7D06C722F0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{D220ADCD-366E-4808-B270-7D06C722F0E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev", "Odev\Odev.csproj", "{A0AD129F-C4FD-4C0E-B94B-64E4BD70B5C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{D220ADCD-366E-4808-B270-7D06C722F0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D220ADCD-366E-4808-B270-7D06C722F0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D220ADCD-366E-4808-B270-7D06C722F0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AD129F-C4FD-4C0E-B94B-64E4BD70B5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AD129F-C4FD-4C0E-B94B-64E4BD70B5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AD129F-C4FD-4C0E-B94B-64E4BD70B5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AD129F-C4FD-4C0E-B94B-64E4BD70B5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
